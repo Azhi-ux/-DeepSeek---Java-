@@ -17,7 +17,6 @@
 - [五、核心创新点](#-------)
 - [六、项目成果展示](#------)
 - [七、适用场景](#------)
-[TOC]
 
 ## 一、项目背景与研究意义
 
@@ -45,6 +44,8 @@
 
 ### 1. 技术架构
 
+<img width="425" height="523" alt="image" src="https://github.com/user-attachments/assets/7f3abf7f-2a1d-476f-95e0-d3a242fc8991" />
+
 系统采用 **前后端分离** 的设计模式，技术栈如下：
 
 * **后端技术：** Spring Boot、Spring Cloud、MyBatis、Elasticsearch、SkyWalking、Prometheus、Redis、MySQL
@@ -66,6 +67,8 @@
 ---
 
 ## 四、功能模块设计
+
+<img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/5394310d-49bd-49a1-8dbd-ae01ffc0919e" />
 
 ### （1）性能指标采集模块
 
@@ -131,12 +134,17 @@
    * 一个完整的性能异常检测与分析系统（前后端分离架构）；
    * 支持实时监控、异常识别、根因分析与告警通知；
    * 大模型参与分析与报告生成，实现智能化运维。
-
+  <img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/725ee576-15b1-4693-910a-e1d5f16f2f8f" />
+  <img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/5c4bbc09-a8ed-4f50-bfbd-20bb971569ac" />
+  <img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/21f6d9b6-cb66-4a9b-8c95-1826d31dd9b1" />
+  <img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/db361616-c229-4c05-a80b-19c19c638a1e" />
+  <img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/f8193497-3f88-41b5-898c-13427346a49c" />
+  <img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/08986e20-56f2-4815-afd3-867802abc06c" />
 2. **论文成果**：
 
    * 系统设计与实现论文一篇；
    * 对比传统监控与 DeepSeek 智能分析在准确率、响应时间等指标上的实验分析报告。
-
+<img width="686" height="351" alt="image" src="https://github.com/user-attachments/assets/a9897e66-97bd-4082-9c87-89c876f5a2c5" />
 ---
 
 ## 七、适用场景
