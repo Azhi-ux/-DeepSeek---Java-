@@ -1,6 +1,6 @@
 ## 基于大模型（DeepSeek）驱动的性能异常检测系统 - Java版+Vue3.0
 
-***如需要其它开发语言（Python、Go）类型可加v：A-8--8---8***
+***源码+论文+部署+如需要其它开发语言（Python、Go）类型可加v：A-8--8---8***
 
 ## 📚 目录
 - [一、项目背景与研究意义](#-----------)
@@ -140,6 +140,7 @@
   <img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/db361616-c229-4c05-a80b-19c19c638a1e" />
   <img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/f8193497-3f88-41b5-898c-13427346a49c" />
   <img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/08986e20-56f2-4815-afd3-867802abc06c" />
+
 2. **论文成果**：
 
    * 系统设计与实现论文一篇；
